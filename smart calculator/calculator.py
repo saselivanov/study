@@ -49,7 +49,7 @@ def division(b, a):
 
 
 def power(b, a):
-    return a ^ b
+    return a ** b
 
 
 def parse_into_list(string):
